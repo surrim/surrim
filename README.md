@@ -27,6 +27,8 @@ Besides open source software development, I'm cycling a lot, see [spirit.surrim.
   Library for creating CSS with PHP
 - **[surrim/css-grid-config](https://github.com/surrim/css-grid-config)**  
   Generates excellent CSS for grid layouts depending on custom breakpoints
+- **[surrim/gpx-minifier](https://github.com/surrim/gpx-minifier)**  
+  Removes GPX metadata, keeps only geodata without losing accuracy
 
 ## Serendipity CMS
 - **[s9y/Serendipity](https://github.com/surrim/Serendipity)**  
