@@ -45,6 +45,8 @@ Besides open source software development, I'm cycling a lot, see [spirit.surrim.
 ## Calculators
 - **[surrim/fibonacciplusplus](https://github.com/surrim/fibonacciplusplus)**  
   Fast Fibonacci calculator (using GMP), written in C++
+- **[surrim/fibonacci-js](https://github.com/surrim/fibonacci-js)**  
+  Pure JavaScript implementation which uses fast matrix exponentiation and BigInts to calculate any Fibonacci number
 - **[surrim/lla2xyz](https://github.com/surrim/lla2xyz)**  
   Convert geodetic latitude, longitude and altitude to XYZ coordinates, written in HTML and JavaScript
 
