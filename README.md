@@ -1,6 +1,8 @@
+![Buenos días Almería!](https://gitlab.com/surrim/surrim/-/raw/main/coast-almeria.webp)
+
 # surrim
 
-Here is a little overview of my GitHub projects. Everything except Serendipity is self-made. Most of the projects are using C++17/20, PHP 8.1+ and JavaScript.
+Here is a little overview of my software projects. Everything except Serendipity is self-made. Most of the projects are using C++17/20, PHP 8.1+ and JavaScript.
 
 Besides open source software development, I'm cycling a lot, see [spirit.surrim.org/about](https://spirit.surrim.org/about).
 
