@@ -11,7 +11,7 @@ Besides open source software development, I'm cycling a lot, see [spirit.surrim.
 - **surrim/j-image-magick**  
   Coming soon! Jekyll ImageMagick, image batch transformations and template-based output for Jekyll. Outperforms everything else in quality, speed and key features. <u>I'm currently looking for testers to get some feedback</u>
 - **surrim/vlc-delete** ([GH](https://github.com/surrim/vlc-delete), [GL](https://gitlab.com/surrim/vlc-delete))  
-  VLC extensision to delete videos from HDD
+  VLC extension to delete videos from filesystem
 - **surrim/npxm** ([GH](https://github.com/surrim/npxm), [GL](https://gitlab.com/surrim/npxm))  
   Nginx, PHP, XDebug and MariaDB Docker image for web development
 - **surrim/hashsumplusplus** ([GH](https://github.com/surrim/hashsumplusplus), [GL](https://gitlab.com/surrim/hashsumplusplus))  
