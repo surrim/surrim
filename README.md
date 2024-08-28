@@ -8,8 +8,8 @@ Besides open source software development, I'm cycling a lot, see [spirit.surrim.
 
 ## Useful stuff
 
-- **surrim/j-image-magick**  
-  Coming soon! Jekyll ImageMagick, image batch transformations and template-based output for Jekyll. Outperforms everything else in quality, speed and key features. <u>I'm currently looking for testers to get some feedback</u>
+- **surrim/jim**  
+  Coming soon! ImageMagick for [Jekyll](https://jekyllrb.com/) and [Bridgetown](https://www.bridgetownrb.com/), image batch transformations and template-based output. Outperforms everything else in quality, speed and key features. I'm currently rewriting the code for Bridgetown support, and <u>looking for testers to get some feedback</u>
 - **surrim/vlc-delete** ([GH](https://github.com/surrim/vlc-delete), [GL](https://gitlab.com/surrim/vlc-delete))  
   VLC extension to delete videos from filesystem
 - **surrim/npxm** ([GH](https://github.com/surrim/npxm), [GL](https://gitlab.com/surrim/npxm))  
