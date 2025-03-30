@@ -65,7 +65,3 @@ Besides open source software development, I'm cycling a lot, see [spirit.surrim.
   Fibonacci-based "backups to keep" calculation, written in HTML and JavaScript
 - **surrim/rangemap** ([GH](https://github.com/surrim/rangemap), [GL](https://gitlab.com/surrim/rangemap))  
   Data structure for handling frequency distributions.
-
-## Donations
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T0N46MV)
