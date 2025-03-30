@@ -2,7 +2,7 @@
 
 # surrim
 
-Here is a little overview of my software projects. Everything except Serendipity is self-made. Most of the projects are using C++23, PHP 8.1+ and JavaScript.
+Here is a little overview of my software projects. Everything except Serendipity is self-made. Most of the projects are using C++23, PHP 8.3+ and JavaScript.
 
 Besides open source software development, I'm cycling a lot, see [spirit.surrim.org/about](https://spirit.surrim.org/about).
 
