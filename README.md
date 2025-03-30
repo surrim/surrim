@@ -13,7 +13,7 @@ Besides open source software development, I'm cycling a lot, see [spirit.surrim.
 - **surrim/vlc-delete** ([GH](https://github.com/surrim/vlc-delete), [GL](https://gitlab.com/surrim/vlc-delete))  
   VLC extension to delete videos from filesystem
 - **surrim/npxm** ([GH](https://github.com/surrim/npxm), [GL](https://gitlab.com/surrim/npxm))  
-  Nginx, PHP, XDebug and MariaDB Docker image for web development
+  Nginx, PHP, XDebug and MariaDB Docker/Podman image for web development
 - **surrim/hashsumplusplus** ([GH](https://github.com/surrim/hashsumplusplus), [GL](https://gitlab.com/surrim/hashsumplusplus))  
   Fast hashsum calculator based on libgcrypt (GnuPG), written in C++
 - **surrim/sql-export** ([GH](https://github.com/surrim/sql-export), [GL](https://gitlab.com/surrim/sql-export))  
