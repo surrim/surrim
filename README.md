@@ -65,3 +65,8 @@ Besides open source software development, I'm cycling a lot, see [spirit.surrim.
   Fibonacci-based "backups to keep" calculation, written in HTML and JavaScript
 - **surrim/rangemap** ([GH](https://github.com/surrim/rangemap), [GL](https://gitlab.com/surrim/rangemap))  
   Data structure for handling frequency distributions.
+
+## Donations
+
+<script src="https://liberapay.com/surrim/widgets/button.js"></script>
+<noscript><a href="https://liberapay.com/surrim/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
