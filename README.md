@@ -52,6 +52,8 @@ Besides open source software development, I'm cycling a lot, see [spirit.surrim.
 
 ## Calculators
 
+- **surrim/sunposplusplus** ([GH](https://github.com/surrim/sunposplusplus))  
+  Calculate the position of the sun with a solid fail-safe algoritm and modern C++23
 - **surrim/fibonacciplusplus** ([GH](https://github.com/surrim/fibonacciplusplus), [GL](https://gitlab.com/surrim/fibonacciplusplus))  
   Fast Fibonacci calculator (using GMP), written in C++
 - **surrim/fibonacci-js** ([GH](https://github.com/surrim/fibonacci-js), [GL](https://gitlab.com/surrim/fibonacci-js))  
