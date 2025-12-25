@@ -50,9 +50,11 @@ Besides open source software development, I'm cycling a lot, see [spirit.surrim.
 - **surrim/moos21** ([GH](https://github.com/surrim/moos21), [GL](https://gitlab.com/surrim/moos21))  
   Chat client for EarthNet, written in C++
 
-## Calculators
+## Calculators and research
 
-- **surrim/sunposplusplus** ([GH](https://github.com/surrim/sunposplusplus))  
+- **surrim/platonic-solids-research** ([GH](https://github.com/surrim/platonic-solids-research), [GL](https://gitlab.com/surrim/platonic-solids-research))  
+  Study vertices, edges, and faces of all Platonic solids, which are calculated in a generic way with OpenSCAD.
+- **surrim/sunposplusplus** ([GH](https://github.com/surrim/sunposplusplus), [GL](https://gitlab.com/surrim/sunposplusplus))  
   Calculate the position of the sun with a solid fail-safe algoritm and modern C++23
 - **surrim/fibonacciplusplus** ([GH](https://github.com/surrim/fibonacciplusplus), [GL](https://gitlab.com/surrim/fibonacciplusplus))  
   Fast Fibonacci calculator (using GMP), written in C++
