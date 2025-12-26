@@ -58,6 +58,8 @@ Besides open source software development, I'm cycling a lot, see [spirit.surrim.
   Calculate the position of the sun with a solid fail-safe algoritm and modern C++23
 - **surrim/fibonacciplusplus** ([GH](https://github.com/surrim/fibonacciplusplus), [GL](https://gitlab.com/surrim/fibonacciplusplus))  
   Fast Fibonacci calculator (using GMP), written in C++
+- **surrim/rainbow-color-generator** ([GH](https://github.com/surrim/rainbow-color-generator), [GL](https://gitlab.com/surrim/rainbow-color-generator))  
+  Pure JavaScript implementation which generates rainbow colors
 - **surrim/fibonacci-js** ([GH](https://github.com/surrim/fibonacci-js), [GL](https://gitlab.com/surrim/fibonacci-js))  
   Pure JavaScript implementation which uses fast matrix exponentiation and BigInts to calculate any Fibonacci number
 - **surrim/lla2xyz** ([GH](https://github.com/surrim/lla2xyz), [GL](https://gitlab.com/surrim/lla2xyz))  
